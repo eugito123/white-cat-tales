@@ -1,0 +1,10 @@
+# Local exports and caches
+.DS_Store
+Thumbs.db
+node_modules/
+render/
+out/
+*.mp4
+*.mov
+*.wav
+*.mp3
